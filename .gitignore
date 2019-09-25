@@ -1,6 +1,6 @@
 # Data files
 src/temporal-analyses/data/*
-src/temporal-analyses/charts/*
+#src/temporal-analyses/charts/*
 
 # === Mac OS ===
 
